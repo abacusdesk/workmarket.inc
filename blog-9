@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.workmarket.com/blog/4-ways-contingent-workers-benefit-businesses"
+  },
+  "headline": "4 Ways Contingent Workers Benefit Businesses",
+  "description": "The trend towards contingent workers as a talent acquisition strategy has been growing steadily as more businesses realize the benefits of this type of workforce.",
+  "image": [
+    "https://images.ctfassets.net/e4gjw6cmthxq/3lk9nFfiFPERONkmar4fkO/548f0e2738b41630131236620db450dc/bruce-mars-FWVMhUa_wbY-unsplash.jpg",
+    "https://images.ctfassets.net/e4gjw6cmthxq/5CnjBDk557EUuJWYv6kClW/401bdb1bc70728a43f3103395eac25d8/austin-distel-h1RW-NFtUyc-unsplash.jpg",
+    "https://images.ctfassets.net/e4gjw6cmthxq/1LqnRewdR6QT2tSTiKuv8Z/01605b93fa5fa43b21057879e22c7ee3/bruce-mars-S8ffHr_dxHo-unsplash.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "WorkMarket Editorial Team"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "WorkMarket, Inc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://d9hhrg4mnvzow.cloudfront.net/content.workmarket.com/contact-us/23ba3cd7-wmid200pxondark-2x_07501i000000000000001.png",
+      "width": 399,
+      "height": 85
+    }
+  },
+  "datePublished": "2020-03-27",
+  "dateModified": "2020-03-27"
+}
+</script>
