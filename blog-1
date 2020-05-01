@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.workmarket.com/blog/CARES-ACT-AND-FFCRA-contingent-workers"
+  },
+  "headline": "CARES ACT AND FFCRA:  Impact on Independent Contractors, Self-Employed Individuals, and Sole Proprietors",
+  "description": "The Families First Coronavirus Response Act (“FFCRA”) and the roughly $2 trillion aid package in The Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”) are intended to provide emergency financial assistance to individuals, families and businesses affected by the COVID-19 outbreak.",
+  "image": [
+    "https://images.ctfassets.net/e4gjw6cmthxq/7vNCEtK7TOJl5Co3YBUTmf/cb5b5ec36e2e95e8ba869c186a7fc85a/Overview_of_the_cares_act_for_businesses_v2_2_.png",
+    "https://images.ctfassets.net/e4gjw6cmthxq/2Z6Z5VUdzMJO4y0bqeZ8ox/d6a9ef48b6c9cd8c31cb298571fa70f5/Copy_of_Overview_of_the_cares_act_for_contingent_workers_v2.png",
+    "https://images.ctfassets.net/e4gjw6cmthxq/4KKGGsb6j6HLCgwRKLfRTu/b1edef477831831cd66906fce71fede4/sydney-rae-geM5lzDj4Iw-unsplash.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "WorkMarket Editorial Team"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "WorkMarket, Inc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://d9hhrg4mnvzow.cloudfront.net/content.workmarket.com/contact-us/23ba3cd7-wmid200pxondark-2x_07501i000000000000001.png",
+      "width": 399,
+      "height": 85
+    }
+  },
+  "datePublished": "2020-03-27",
+  "dateModified": "2020-03-27"
+}
+</script>
