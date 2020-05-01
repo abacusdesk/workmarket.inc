@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.workmarket.com/blog/future-of-work-defined-event"
+  },
+  "headline": "Future of work  defined event",
+  "description": "Recently, businesses and CPA firms attended an event in Laguna Beach, California, to discuss trends in the workplace and what the Future of Work will look like based on the current trends.",
+  "image": [
+    "https://images.ctfassets.net/e4gjw6cmthxq/6kv5KFhyVnoKAY7IsKLuqo/3ea5d7c01c74aac47767fdf2a3ec36d9/IMG_7801.jpg",
+    "https://images.ctfassets.net/e4gjw6cmthxq/7yZ5YICN1CLCQ6hb8EhaOS/da59b3483a49d6ba60149d2bcbc0b437/IMG_7785.jpg",
+    "https://images.ctfassets.net/e4gjw6cmthxq/1OqbKG5HhfLag5ZCyS9bPh/6ebf9a63e32a604f709e0b0ee415e78b/IMG_7786.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "WorkMarket Editorial Team"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "WorkMarket, Inc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://d9hhrg4mnvzow.cloudfront.net/content.workmarket.com/contact-us/23ba3cd7-wmid200pxondark-2x_07501i000000000000001.png",
+      "width": 399,
+      "height": 85
+    }
+  },
+  "datePublished": "2020-03-03",
+  "dateModified": "2020-03-03"
+}
+</script>B
