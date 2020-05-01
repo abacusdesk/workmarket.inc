@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.workmarket.com/blog/rogue-spend-what-is-it"
+  },
+  "headline": "Rogue Spend:  What is it, and is Your Business Affected?",
+  "description": "Rogue Spend - This term represents expenditures with staffing suppliers outside of pre-negotiated contracts or the guidelines of the organization’s contingent workforce program.",
+  "image": "https://images.ctfassets.net/e4gjw6cmthxq/30ZN7TF66F8ZnV15NToUVH/6c64a5f9bbcd3cb9be4fa23e932235e3/helloquence-5fNmWej4tAA-unsplash.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "WorkMarket Editorial Team"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "WorkMarket, Inc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://d9hhrg4mnvzow.cloudfront.net/content.workmarket.com/contact-us/23ba3cd7-wmid200pxondark-2x_07501i000000000000001.png",
+      "width": 399,
+      "height": 85
+    }
+  },
+  "datePublished": "2020-03-03",
+  "dateModified": "2020-03-03"
+}
+</script>
