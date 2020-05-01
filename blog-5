@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.workmarket.com/blog/how-to-effectively-manage-remote-teams-and-yourself-when-working-from-home"
+  },
+  "headline": "How to Effectively Manage Remote Teams, and Yourself, When Working From Home<",
+  "description": "WorkMarket is trusted by some of the biggest companies in the world to find, manage and pay their freelancers and independent contractors.",
+  "image": [
+    "https://images.ctfassets.net/e4gjw6cmthxq/1L7BRZ2pnO11WwDMSaBbjH/9a1868a0a7c77d3f7e7e350d5d49c8bc/thought-catalog-Nv-vx3kUR2A-unsplash.jpg",
+    "https://images.ctfassets.net/e4gjw6cmthxq/2I7iH5uO3DfNcqqzb7VH4o/26f037d54c61fe825d5c3fa59984b9cc/luke-peters-B6JINerWMz0-unsplash.jpg",
+    "https://images.ctfassets.net/e4gjw6cmthxq/4gjDKUtm9Bf98twWCgx6wL/caf0ce9406e8c63bcf3a32c6f2b6400f/thought-catalog-UK78i6vK3sc-unsplash.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "WorkMarket Editorial Team"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "WorkMarket, Inc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://d9hhrg4mnvzow.cloudfront.net/content.workmarket.com/contact-us/23ba3cd7-wmid200pxondark-2x_07501i000000000000001.png",
+      "width": 399,
+      "height": 85
+    }
+  },
+  "datePublished": "2020-03-26",
+  "dateModified": "2020-03-26"
+}
+</script>
