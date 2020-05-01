@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.workmarket.com/blog/why-should-businesses-embrace-a-contingent-workforce"
+  },
+  "headline": "Why Should Businesses Embrace a Contingent Workforce?",
+  "description": "WorkMarket is trusted by some of the biggest companies in the world to find, manage and pay their freelancers and independent contractors.",
+  "image": [
+    "https://images.ctfassets.net/e4gjw6cmthxq/4Q8uFePr6Wyl7ywkqVgKQc/46253c723990a01515796b37f1f6cd00/webinar_200226-Unlocking_the_Power_of_the_Extended_Workforce_updated_slide_wfaas.pptx_1_.jpg",
+    "https://images.ctfassets.net/e4gjw6cmthxq/1wI5TMBBOcFk7lOltKsHeD/c7b35758abce3da74a4987f3b2ad223c/webinar_200226-Unlocking_the_Power_of_the_Extended_Workforce_updated_slide_wfaas.pptx_2_.jpg",
+    "https://images.ctfassets.net/e4gjw6cmthxq/1c9CNDMytYBucrSKPyYbpO/2f652bda5838c9885806b61f8c5c8bae/webinar_200226-Unlocking_the_Power_of_the_Extended_Workforce_updated_slide_wfaas.pptx.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "WorkMarket Editorial Team"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "WorkMarket, Inc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://d9hhrg4mnvzow.cloudfront.net/content.workmarket.com/contact-us/23ba3cd7-wmid200pxondark-2x_07501i000000000000001.png",
+      "width": 399,
+      "height": 85
+    }
+  },
+  "datePublished": "2020-03-27",
+  "dateModified": "2020-03-27"
+}
+</script>
